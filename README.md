@@ -30,11 +30,7 @@ https://www.montgomerycollege.edu/workforce-development-continuing-education/inf
    
 ##### Contact: cameron.cn[at]andmorewords.com
 
-
-_Cameron.Cn_ | 柯智明
-
-   2019. Summer
-  ---
-   只要努力，成功就可以
+---
+_Cameron.Cn_ | 柯智明 | 2019. Summer
    
-_With hard work, success is possible._
+只要努力，成功就可以 | _With hard work, success is possible._
