@@ -7,9 +7,9 @@ https://www.montgomerycollege.edu/workforce-development-continuing-education/inf
 
 #### Naming and Nomenclature
 
-   Notes from class are named as `notes_{week}.{day}.txt`
-   Exercises from class are named in the order we completed them: `exercise{#}_{name}.ipynb`
-   Other projects should be self-evident, including `final_project` and its preceding kin.
+   Notes from class are named as `notes_{week}.{day}.txt` \n
+   Exercises from class are named in the order we completed them: `exercise{#}_{name}.ipynb` \n
+   Other projects should be self-evident, including `final_project` and its preceding kin. \n
 
 #### Disclaimer
    These projects and notes were completed for a class--they are not incredibly advanced, beautiful, elegant,
