@@ -28,10 +28,11 @@ https://www.montgomerycollege.edu/workforce-development-continuing-education/inf
     
   For anyone who has questions about projects herein--feel free to reach out.
    
-##### Contact: cameron.cn@andmorewords.com
+##### Contact: cameron.cn[at]andmorewords.com
 
 
 _Cameron.Cn_ | 柯智明
     2019. Summer
+    
     只要努力，成功就可以
 _With hard work, success is possible._
