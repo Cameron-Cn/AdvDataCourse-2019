@@ -4,6 +4,13 @@ Intensive 250-hour course in data analysis at MC College. Python, SQL, and more!
 Program Website 
 https://www.montgomerycollege.edu/workforce-development-continuing-education/information-technology/americas-promise-program/data-analytics-boot-camp.html
 
+#### Technologies Used
+Anaconda distribution (Free, not OSS): https://www.anaconda.com/  
+
+Runs on any OS -- Unix-like systems takes some configuration 
+
+Jupyter notebooks within Anaconda
+   
 
 #### Naming and Nomenclature
 
