@@ -1,0 +1,94 @@
+SQL and Other Goodies
+
+2019 June 6
+
+Cameron.Cn
+
+	>>>
+
+**Wes McKinney developed Pandas (data for python)    | https://www.youtube.com/watch?v=Q7y9l-L8yiU**
+
+**Automate the Boring Stuff With Python | https://automatetheboringstuff.com/**
+
+	>>>
+
+MySQL Workbench | MySQL Graphical User Interface
+
+SQL allows for user-permissions and working groups
+	Relational data
+
+stored in sets (what we see as tables)
+
+ rows = records | column = field
+
+databases are most efficient when they have several rules in mind on creation (structure, links, relationships)
+
+Create | Read | Update | Delete  
+    'CRUD'
+
+DataBase Management Systems: SQL, OracleSQL, H2, SQL Server, PostgreSQL
+Databases but NOT Management: Excel, NoSQL
+
+ACID Rules for Databases
+
+A - Atomicity
+    Each record should be stored in fields which represent the smallest component of data needed 
+    (i.e. 'Your Name' should be two fields: 'first_name' , 'last_name'
+    
+C - Consistency
+    Validity of data in terms of rules. Data is valid, not junk.
+
+
+I - Isolation
+    All transactions and changes will occur in isolation and not interfere with other fields
+
+D - Durability
+    Once data is commited to the system, it must remain saved and stored safely and permanently 
+        (unless deletion is needed)
+
+
+			Sequences to uniquely identify record
+One to One (not common)
+	each record in table A has one corresponding to Table B
+	i.e. husband/wife
+
+One to Many (most common)
+	each record in Table A has many corresponding records in Table B
+
+Many to Many (common, but usually broken into O:M)
+	Records in A have many B, B has many A
+	i.e. a record of actors and movies (many movies, many actors, one actor, many movies...)
+
+
+Database works efficiently with unique identifier per record (i.e. employee ID number, Student ID, etc...)
+	"Primary Key"
+
+# we will get back to "hashes" later -- they are NOT related to Primary Keys
+
+
+"Foreign Key"
+	 -- data in one table that we want to match with another table
+
+
+	EXAMPLE:
+		i.e. ___Employees___foreign key	|______	Departments___
+			ID Name		Dept	|	Dept ID, Name     	<-- Record
+		PK	10 Liu		31	|	31 Accounting
+			20 Bob		52	|	52 Legal
+			30 Katya	83	|	83 HR
+
+Query -- Liu (ID 10) works for Accounting (ID 31), or E10:D31 as a potential expression
+	Primary Key is Employee ID (from view of Employee table)
+	Foreign Key is their Department ID Number
+
+
+	FORMAT of a SQL Statement
+
+Select tblStaff.Firstname, tblStaff.Lastname
+FROM tblStaff
+WHERE tblStaff.Office="London"
+ORDER BY tblStaff.Lastname;
+
+
+
+	>>>
