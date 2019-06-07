@@ -1,0 +1,197 @@
+2019 June 03
+https://canvas.instructure.com/courses/1619583
+
+_______________________
+
+GitHub / Anaconda / Canvas
+
+"Think Like A Programmer"
+
+Python/SQL/HTML
+
+Stats
+
+Webscraping
+
+JSON data files
+
+Modelling with Tableau etc
+
+AWS
+
+
+
+	>>>
+
+
+Find data, make a story (For the business people who you are presenting to)
+
+
+
+	>>>
+
+Make a Repo on GitHub
+Upload file to Repo (Download too)
+
+>> https://github.com/Cameron-Cn/5wk_data-2019
+>> https://git-scm.com/docs/gittutorial
+
+
+(In your preferred directory)
+git init
+git config --global user.name "{NAME}"
+git config --global user.email {email.com}
+git remote add origin {URL}
+git add . {all = .}
+git commit -m "{COMMENT, Remember to be nice}"
+git push -u origin master
+
+git pull 
+
+
+	>>>
+
+Name			Programming Exp.	Hope to Achieve		Fav. Film/Book
+
+Danielle(mol cell)	data, microscopy	Big Data		LOTR
+Peggy			prgrm, db, 		python	
+Nikkie (CG Ret.)	
+Gonsalo (?)		sql			py			xmen
+Daniel (19+)  		.net						history doc
+joel	biz		db						welcome to america
+kaddy 			medicare/cms		automate life		anime*
+bethlehem, isys mg	busad						charles dickens
+lashonda		bus ad, ms crim jus	
+
+
+	>>>
+
+selenium (?) scripting automation (software testing)
+
+
+	>>>
+{{ How automation of tasks is either "efficiency" or "robot job stealing"}}
+
+	>>>
+
+algorithm
+"To get celcius take the fahrenheit temp, subract 32 then multiply by (5/9)."
+
+pseudocode
+
+> prompt fahrenheitTemp
+> Get farenheitTemp
+> calculate celciusTemp = (fahrenheitTemp - 32) * (5/9)
+> display celciusTemp
+> Ask user to continue Y/N
+LOOP until User quits (q, Ctrl + C)
+
+
+Task to Automate
+1) lay out the task -- goals and steps
+2) write pseudocode to layout how a program could accomplish that
+3) insert algorithms (maths, etc) into pseudocode
+4) translate to real code, program
+5) test and DONE!
+
+	>>>
+
+Developing an Algorithm
+	Defining the problem
+
+Input (source data)
+Output (what we are looking for)
+Processing Steps (In -> Out)
+
+		Three Column
+_________________________________________________
+|	Input	|	Process	|	Output	|
+-------------------------------------------------
+|{Fahrenheit}	|   {algorithm}	|   {celcius}	|
+|		|		|		|
+|		|		|		|
+-------------------------------------------------
+
+
+	TESTING
+Pick some simple examples, check results for believability, etc
+
+
+
+	>>>
+
+		____Structure Theorem____Böhm-Jacopini theorem
+
+Three Control Structures--types of code blocks or f(n) types
+
+	__Sequence
+statement a
+statement b
+statement c
+
+	__Selection
+if condition {{x}} THEN
+	perform statement(s)in the TRUE block
+ELSE
+	perform statement(s)in the FALSE block
+ENDIF
+
+
+	__Repetition
+DOWHILE condition {{p}} is TRUE
+	statement block
+ENDDO
+
+
+DOWHILE 
+	statement block
+ENDDO condition {{p}} is TRUE
+
+
+	EX___
+set student_total to zero
+
+DOWHILE student_total < 50
+	Read student record
+	Print student name, address
+	add 1 to Student_total
+ENDDO
+
+
+
+	>>>
+			___RESOURCES___
+
+learnxinyminutes(dot)com
+	Python
+Learn X in Y Minutes
+
+
+w3schools.com
+	Python
+	PHP
+	Bootstrap
+
+
+tutorialspoint(dot)com
+	Python
+coding ground (live tutorial)
+
+
+
+	>>>
+
+
+
+TOMORROW: FizzBuzz programming language
+
+
+
+
+
+
+
+
+
+
+
