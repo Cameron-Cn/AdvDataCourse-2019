@@ -1,0 +1,64 @@
+2019 June 10
+	Week 2, Day 1
+
+	>>>
+
+```
+Data Storytelling -- Miriam Gilbert | "Storytelling With Numbers"
+    [] Build a data sculpture
+    [] Deconstruct a data visualization
+    [] Fill in a spreadsheet (on paper)
+    [] Sketch a story
+    [] Ask good questions
+    [] Try to convince me (infographics)
+    [] Data storybook (using a crayon, few words)
+
+
+    How do we define stories in business?
+        Accounts of (real or imaginary) events that engage listener {Swift: "proper words in proper places", Said 1982}
+        Data stories -- combine narrative with data to make easily accessible and coherent (visuals common)
+                defn: a method of delivering messages derived from complex data analysis in a way that allows audience to quickly and easily assimilate the material, understand its meaning and draw conclusions from it. (basic comms theory)
+        1. Need a message: hypothesis, angle, importance (a direction!)
+        2. Narrative, A -> B -> ???; structure and flow, coherency; visual communication, pictures etc.
+
+    expressiveness, precision, accuracy
+       Meaning, level of detail, correctness of data
+       
+    graphs and tables are most common visuals -- and can be excellent when used correctly
+       graphs are relationships within/between data
+       tables are good to have reader look up the data for a specific X
+      
+    Gestalt theory:
+        the whole is different from the sum of its parts (perception is influenced by appearance, not by building blocks)
+        REMOVE THE CLUTTER
+  
+    
+```
+
+
+	>>>
+
+USAID Issues
+	Beyond the structural remains of a colonial power:
+[] Planet graphics don't scale
+[] 10 % of Chile big animals are women, 40% are men...the other 50%
+[] no water
+[] not realy global?
+[] the only call to action is "If women were MORE productive the world would benefit"
+	which is obvious??
+[] The title is somewhat disconnected from the sudden second half of the graphic
+[] 
+
+
+Judging informations
+1. Data used
+2. Way it shows
+3. Narrative
+4. Evaluation of effectiveness
+
+
+InfoGraphics | https://annualreport.undp.org/assets/UNDP-Annual-Report-2018-en.pdf
+UNDP 2018 Annual Review
+
+
+
