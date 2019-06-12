@@ -1,0 +1,14 @@
+2019 June 11
+	2.2 Notes
+
+DataSets | https://github.com/awesomedata/awesome-public-datasets
+	awesome!!!
+
+Shelter Animals Count | https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-summary
+	U.S. Animals (cats, dogs) in shelters (self-reported)
+
+
+
+
+
+
